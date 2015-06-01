@@ -1,0 +1,59 @@
+.scene {
+	position:	relative;
+	width:	800px;
+	height: 600px;
+	margin: 50px auto;
+	overflow:	hidden;
+	background-image:	linear-gradient(to top, #006400, #008000);
+}
+
+.board {
+	position:	absolute;
+	width:	150px;
+	height:	365px;
+	bottom:	117px;
+	right:	325px;
+	background-image:	linear-gradient(to top, #191970, #191970);
+}
+
+.out {
+	position:	absolute;
+	width:	25px;
+	height:	25px;
+	background-image:	linear-gradient(to top, #FFFF00, #FFFFE0);
+}
+
+.right {
+	right:	-25px;
+}
+
+#d1 {
+	bottom:	25px;
+}
+
+#d2 {
+	bottom:	75px;
+}
+
+#d3 {
+	bottom:	125px;
+}
+
+#d4 {
+	bottom: 175px;
+}
+
+#d5 {
+	bottom: 225px;
+}
+
+#d6 {
+	bottom: 275px;
+}
+
+#d7 {
+	bottom: 325px;
+}
+
+
+
